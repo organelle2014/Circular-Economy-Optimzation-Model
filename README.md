@@ -1,2 +1,4 @@
 # Circular-Economy-Optimzation-Model
 A management science and engineering model for optimizing rentals and sales in a circular economy. --Sustainability
+
+The model primarily implements the hotelling economics model. This repository provides a lightweight Python optimization model for exploring circular-economy strategies: it models material flows and recovery options, runs configurable optimization experiments to reveal trade-offs between cost, resource use, and waste, and includes visualization utilities to inspect and compare scenario outcomes—easy to adapt to different products, sectors, or policy settings.
